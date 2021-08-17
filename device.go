@@ -2,7 +2,7 @@ package gwda
 
 import (
 	"fmt"
-	giDevice "github.com/electricbubble/gidevice"
+	giDevice "github.com/jsrj78/gidevice"
 )
 
 type Device struct {
