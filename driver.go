@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	giDevice "github.com/electricbubble/gidevice"
+	giDevice "github.com/jsrj78/gidevice"
 	"net"
 	"net/http"
 	"net/url"
